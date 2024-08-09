@@ -4,13 +4,13 @@ An exploratory analysis was conducted to understand the current state of data pr
 
 # Table of Contents 📚
 
-Introduction
-Situation
-Strategy
-Business Questions
-Data Collected from the Survey
-Insights
-Recommendations
+- Introduction
+- Situation
+- Strategy
+- Business Questions
+- Data Collected from the Survey
+- Insights
+- Recommendations
 
 # Introduction 📝
 
@@ -36,23 +36,26 @@ The strategy involved analyzing survey data to answer key business questions rel
 
 ![image](https://github.com/user-attachments/assets/425d0d80-4786-4ff2-9c95-a9f8cf504626)
 
-Demographics:
+1) Demographics:
 
-Survey respondents are primarily from the United States, India, the United Kingdom, and Canada.
-The average age of respondents is approximately 29.87 years.
-Salary and Job Satisfaction:
+- Survey respondents are primarily from the United States, India, the United Kingdom, and Canada.
+- The average age of respondents is approximately 29.87 years.
 
-The highest average salary is for Data Scientists, followed by Data Engineers and Data Architects.
-Average happiness with salary is relatively low, at 4.27 out of 10.
-Happiness with work-life balance is slightly better, with an average score of 5.74 out of 10.
-Programming Language Preferences:
+2) Salary and Job Satisfaction:
 
-Python is the most favored programming language across all data roles, with the highest count of voters.
-Other popular languages include R, C/C++, and JavaScript.
-Job Titles and Age Distribution:
+- The highest average salary is for Data Scientists, followed by Data Engineers and Data Architects.
+- Average happiness with salary is relatively low, at 4.27 out of 10.
+- Happiness with work-life balance is slightly better, with an average score of 5.74 out of 10.
 
-Job titles include Data Scientist, Data Engineer, Data Analyst, Data Architect, and others.
-The average age of professionals in these roles ranges from 29 to 34 years.
+3) Programming Language Preferences:
+
+- Python is the most favored programming language across all data roles, with the highest count of voters.
+- Other popular languages include R, C/C++, and JavaScript.
+
+4) Job Titles and Age Distribution:
+
+- Job titles include Data Scientist, Data Engineer, Data Analyst, Data Architect, and others.
+- The average age of professionals in these roles ranges from 29 to 34 years.
 
 # Insights 💡
 

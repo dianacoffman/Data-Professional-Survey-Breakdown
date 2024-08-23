@@ -26,13 +26,13 @@ The strategy involved analyzing survey data to answer key business questions rel
 
 # Business Questions ⚖️
 
-- What are the demographics of the survey respondents?
-- What is the average salary by job title?
-- What programming languages are most preferred by different data roles?
-- How satisfied are data professionals with their salary and work-life balance?
-- What is the age distribution of data professionals across different roles?
+- How can we segment our target audience based on demographic characteristics to create more effective marketing campaigns?
+- What are the average salary ranges by job title in our industry, and how can we use this information to attract and retain top talent?
+- Which programming languages should we prioritize in our hiring process to maximize efficiency and innovation across different data roles?
+- What can we do to improve the satisfaction of our data professionals regarding salary and work-life balance?
+- How does the age distribution of data professionals across different roles impact our succession planning and career development strategies?
 
-# Data Collected from Power BI dashboard 📑
+# Data Collected from dashboards 📑
 
 ![image](https://github.com/user-attachments/assets/c383d6b5-5d38-4b69-97b9-d71035da63cb)
 

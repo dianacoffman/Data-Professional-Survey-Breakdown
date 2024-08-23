@@ -1,8 +1,8 @@
-# Overview 📖
+## Overview 📖
 
 An exploratory analysis was conducted to understand the current state of data professionals in terms of demographics, job satisfaction, preferred technologies, and other relevant factors. The analysis focuses on key metrics such as salary, work-life balance, and job distribution across various roles. Insights derived from this analysis are crucial for organizations looking to attract, retain, and understand the needs and preferences of data professionals.
 
-# Table of Contents 📚
+## Table of Contents 📚
 
 - Introduction
 - Situation
@@ -12,19 +12,19 @@ An exploratory analysis was conducted to understand the current state of data pr
 - Insights
 - Recommendations
 
-# Introduction 📝
+## Introduction 📝
 
 The demand for data professionals continues to grow as organizations rely more on data-driven decisions. Understanding the demographics, job satisfaction, and technology preferences of data professionals is essential for companies to effectively recruit and retain top talent.
 
-# Situation 🔎
+## Situation 🔎
 
 With the rising importance of data roles, it's crucial for companies to have a comprehensive understanding of the preferences and satisfaction levels of these professionals. The survey provides insights into various aspects such as average salary by job title, favorite programming languages, and happiness with salary and work-life balance.
 
-# Strategy 🎯
+## Strategy 🎯
 
 The strategy involved analyzing survey data to answer key business questions related to the demographics, salary expectations, and technology preferences of data professionals. This analysis helps identify trends and areas that need improvement to ensure higher job satisfaction and better recruitment strategies.
 
-# Business Questions ⚖️
+## Business Questions ⚖️
 
 - How can we segment our target audience based on demographic characteristics to create more effective marketing campaigns?
 - What are the average salary ranges by job title in our industry, and how can we use this information to attract and retain top talent?
@@ -32,7 +32,7 @@ The strategy involved analyzing survey data to answer key business questions rel
 - What can we do to improve the satisfaction of our data professionals regarding salary and work-life balance?
 - How does the age distribution of data professionals across different roles impact our succession planning and career development strategies?
 
-# Data Collected from dashboards 📑
+## Data Collected from dashboards 📑
 
 ![image](https://github.com/user-attachments/assets/c383d6b5-5d38-4b69-97b9-d71035da63cb)
 
@@ -57,14 +57,14 @@ The strategy involved analyzing survey data to answer key business questions rel
 - Job titles include Data Scientist, Data Engineer, Data Analyst, Data Architect, and others
 - The average age of professionals in these roles ranges from 29 to 34 years
 
-# Insights 💡
+## Insights 💡
 
 - Salary Disparity: There is a significant salary gap between different job titles, with Data Scientists earning considerably more than others. This could lead to dissatisfaction in roles with lower compensation
 - Happiness Index: The overall happiness with salary is low, indicating potential issues with compensation structures across the industry. However, work-life balance scores slightly better, suggesting that while compensation is a concern, the work environment is relatively balanced
 - Technology Preferences: Python's dominance as the preferred programming language highlights its importance in data roles. Companies should focus on ensuring Python expertise within their teams or provide training opportunities
 - Demographic Focus: The concentration of respondents in countries like the United States and India suggests that recruitment efforts could be targeted more effectively in these regions
 
-# Recommendations 🛠️
+## Recommendations 🛠️
 - Review Compensation Structures: Given the low happiness with salary, companies should consider reviewing and potentially adjusting their compensation packages to be more competitive, particularly for roles with lower average salaries
 - Enhance Work-Life Balance Programs: Although work-life balance scores are better than salary happiness, there is still room for improvement. Organizations should continue to invest in programs that promote a healthy work-life balance
 - Focus on Python Proficiency: Given its popularity, companies should emphasize Python proficiency in their hiring and training programs. Offering Python courses or certifications could also be a valuable retention strategy

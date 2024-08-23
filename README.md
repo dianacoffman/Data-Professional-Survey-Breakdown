@@ -4,8 +4,7 @@ An exploratory analysis was conducted to understand the current state of data pr
 
 ## Table of Contents 📚
 
-- Introduction
-- Situation
+- Introduction and Situation
 - Strategy
 - Business Questions
 - Data Collected from the Survey

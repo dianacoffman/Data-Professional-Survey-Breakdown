@@ -31,7 +31,8 @@ The strategy involved analyzing survey data to answer key business questions rel
 
 ## Data Collected from dashboards 📑
 
-![image](https://github.com/user-attachments/assets/4d0b3b81-093f-4da2-8bb8-427ca20c2c24)
+![image](https://github.com/user-attachments/assets/715c71b7-c8a1-4616-987e-5de57b83efb0)
+
 
 ![image](https://github.com/user-attachments/assets/c383d6b5-5d38-4b69-97b9-d71035da63cb)
 

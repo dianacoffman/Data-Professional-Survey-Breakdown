@@ -35,10 +35,6 @@ The strategy involved analyzing survey data to answer key business questions rel
 
 ![image](https://github.com/user-attachments/assets/be3184ba-a999-474d-ba8b-67672224d353)
 
-
-
-![image](https://github.com/user-attachments/assets/c383d6b5-5d38-4b69-97b9-d71035da63cb)
-
 1) Programming Language Preferences:
 
 - Python is the most favored programming language across all data roles, with the highest count of voters

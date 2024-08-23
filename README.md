@@ -29,7 +29,7 @@ The strategy involved analyzing survey data to answer key business questions rel
 - What can we do to improve the satisfaction of our data professionals regarding salary and work-life balance?
 - How does the age distribution of data professionals across different roles impact our succession planning and career development strategies?
 
-## Data Collected from dashboards 📑
+## Data Collected 📑
 
 ![image](https://github.com/user-attachments/assets/715c71b7-c8a1-4616-987e-5de57b83efb0)
 

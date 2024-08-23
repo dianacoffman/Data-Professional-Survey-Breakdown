@@ -12,11 +12,9 @@ An exploratory analysis was conducted to understand the current state of data pr
 - Insights
 - Recommendations
 
-## Introduction 📝
+## Introduction and Situation 📝🔎
 
 The demand for data professionals continues to grow as organizations rely more on data-driven decisions. Understanding the demographics, job satisfaction, and technology preferences of data professionals is essential for companies to effectively recruit and retain top talent.
-
-## Situation 🔎
 
 With the rising importance of data roles, it's crucial for companies to have a comprehensive understanding of the preferences and satisfaction levels of these professionals. The survey provides insights into various aspects such as average salary by job title, favorite programming languages, and happiness with salary and work-life balance.
 

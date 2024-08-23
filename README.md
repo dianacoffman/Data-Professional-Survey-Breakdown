@@ -31,7 +31,7 @@ The strategy involved analyzing survey data to answer key business questions rel
 
 ## Data Collected 📑
 
-![image](https://github.com/user-attachments/assets/715c71b7-c8a1-4616-987e-5de57b83efb0)
+![image](https://github.com/user-attachments/assets/f7428569-223f-4ed8-9955-83bef435d66f)
 
 1) Programming Language Preferences:
 
